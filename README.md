@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -267,8 +266,7 @@
         </div>
       </a>
 
-      <!-- Replace the URL below with your partner/target website -->
-      <a class="btn primary" href="https://example.com" target="_blank" rel="nofollow sponsored noopener">
+      <a class="btn primary" href="https://go2ads.cyou/click.php?key=lgmf1sw6wsuor0sm0ik4" target="_blank" rel="nofollow">
         Play Now (Official Site) →
       </a>
     </div>
@@ -550,9 +548,8 @@
         <small>Prefer official sources for aviator game app download • 18+ only</small>
       </div>
       <div class="two">
-        <!-- Replace URL below -->
-        <a class="btn primary" href="https://example.com" target="_blank" rel="nofollow sponsored noopener">Open Official Site →</a>
-        <a class="btn" href="#app-download">App Download Tips ↓</a>
+        <a class="btn primary" href="https://go2ads.cyou/click.php?key=lgmf1sw6wsuor0sm0ik4" target="_blank" rel="nofollow">Open Official Site →</a>
+        <a class="btn" href="https://go2ads.cyou/click.php?key=lgmf1sw6wsuor0sm0ik4">App Download Tips ↓</a>
       </div>
     </div>
   </div>
